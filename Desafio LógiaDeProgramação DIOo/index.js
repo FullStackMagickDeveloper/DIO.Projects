@@ -1,6 +1,9 @@
-/* Instruções para entrega
+/* Instrutor Felipe/Felipão
+
+Instruções para entrega
+
 # 1 Desafio Classificador de nível de Herói
-${Variavel}
+
 **O Que deve ser utilizado**
 
 - Variáveis
