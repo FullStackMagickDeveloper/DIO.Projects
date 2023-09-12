@@ -1,4 +1,4 @@
-/* Instrutor Felipe/Felipão
+/* Instrutor (Felipe/Felipão)
 
 Instruções para entrega
 
@@ -36,46 +36,44 @@ let xp = prompt("Por Favor Digite sua XP")
 
 
  if(xp <= 100){
-            console.log("O Herói de nome " + nome +
-" XP =(" + xp + ") está no nível de [Iniciante] Não desista você vai conseguir")
+            console.log(`O Herói de nome 
+${nome} XP =(${xp}) está no nível de [Iniciante] Não desista você vai conseguir`)
 }
 else if(xp <= 1000){
-            console.log("O Herói de nome" + nome +
-" XP =(" + xp + ") está no nível de [Ferro]")
+            console.log(`O Herói de nome ${nome} XP =(${xp}) está no nível de [Ferro]`)
 }
 else if( (xp >1001) && (xp <= 2000) ){
-            console.log("O Herói de nome " + nome +
-" XP =(" + xp + ") está no nível de [Bronze]")
+            console.log(`O Herói de nome 
+${nome} XP =(${xp}) está no nível de [Bronze]`)
 }
 else if( (xp >2001) && (xp <= 5000) ){
-            console.log("O Herói de nome" + nome +
-" XP =(" + xp + ") está no nível de [Prata]")
+            console.log(`O Herói de nome
+${nome} XP =(${xp}) está no nível de [Prata]`)
 }
 else if( (xp >5001) && (xp <= 7000) ){
-            console.log("O Herói de nome " + nome +
-" XP =(" + xp + ") está no nível de [Ouro]")
+            console.log(`O Herói de nome
+${nome} XP =(${xp}) está no nível de [Ouro]`)
 }
 else if( (xp >7001) && (xp <= 8000) ){
-            console.log("O Herói de nome" + nome +
-" XP =(" + xp + ") está no nível de [Platina]")
+            console.log(`O Herói de nome
+${nome} XP =(${xp}) está no nível de [Platina]`)
 }
 else if( (xp >8001) && (xp <= 9000) ){
-            console.log("O Herói de nome" + nome +
-" XP =(" + xp + ") está no nível de [Ascendente]")
+            console.log(`O Herói de nome
+${nome} XP =(${xp}) está no nível de [Ascendente]`)
 }
-else if( (xp >9001) && (xp <= 10000) ){
-            console.log("O Herói de nome " + nome +
-" XP =(" + xp + ") está no nível de [Imortal]")
+else if( (xp >9001) && (xp <= 100000) ){
+            console.log(`O Herói de nome 
+${nome} XP =(${xp})
+está no nível de [Imortal]`)
 }
-else if(xp <= 100000){
-            console.log("O Herói de nome " + nome +
-" XP =(" + xp + ") está no nível de [Radiante(God)]")
+else if( (xp >100001) && (xp <= 300000) ){
+            console.log(`O Herói de nome 
+${nome} XP =(${xp}) está no nível de [Radiante(God)]`)
 }
 else if(xp > 300000){
-            console.log("O Herói de nome " + nome +
-" XP = (" + xp + ") está no nível de [Supreme God]")
+            console.log(`O Herói de nome 
+${nome} XP =(${xp}) está no nível de [Supreme God]`)
 }
 
             
-
-
