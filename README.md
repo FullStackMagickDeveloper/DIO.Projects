@@ -9,17 +9,17 @@
 ```js
 
 
-let nome = " Wagner Alexandre "
+let nome = "Wagner Alexandre"
 let profissao = "Desenvolvedor FullStack"
-let repEmpesa = prompt(" Por Favor Digite o seu nome Representante de Empresa ")
-let empresa = prompt(" Por Favor Digite o nome da Sua Empresa ")
+let repEmpesa = prompt("Por Favor Digite o seu nome Representante de Empresa")
+let empresa = prompt("Por Favor Digite o nome da Sua Empresa")
 let contrata = true
 
 if(contrata === true){
-console.log(" O representante " + repEmpesa + " da Empresa " + empresa + " Contratou (" + contrata + ") o mais novo Funcionario " + nome + "["+profissao+"] para o seu Time")
+console.log(` O representante  ${repEmpesa}  da Empresa (${empresa}) Contratou [${contrata}] o mais novo Funcionario  (${nome}) ${profissao} para o seu Time`)
 }
 else{
-console.log(" O representante " + repEmpesa + " da Empresa " + empresa + " Perdeu a chance de Contratar (" + contrata + ") o Futuro Funcionario" + nome + "["+profissao+"] para o seu Time")
+console.log(`O representante ${repEmpesa} da Empresa (${empresa}) Perdeu a chance de Contratar [${contrata}] o Futuro Funcionario (${nome}) ${profissao} para o seu Time`)
 }
 
 
