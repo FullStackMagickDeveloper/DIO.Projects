@@ -1,31 +1,29 @@
 ![DIO/LOGO](https://avatars.githubusercontent.com/u/26231823?s=200&v=4)
 #             **DIO PROJECTS** 
 
-### Sejam Bem vindos Aos (_Dio.Projests_) aqui estaram todos  os projetos propostos e realizados nos cursos de Programação da DIO.
+### Welcome to (_Dio.Projests_) here are all the projects proposed and carried out in DIO's Programming courses.
 
-### Olá, Meu nome é Wagner, em breve eu serei um Desenvolvedor FullStack, o seu mais novo funcionário Obrigado.
-
+ ### Hello, My name is Wagner, soon I will be a FullStack Developer, your newest employee Thank you.
 
 ```js
 
 
-let nome = "Wagner Alexandre"
-let profissao = "Desenvolvedor FullStack"
-let repEmpesa = prompt("Por Favor Digite o seu nome Representante de Empresa")
-let empresa = prompt("Por Favor Digite o nome da Sua Empresa")
-let contrata = true
+let name = "Wagner Alexandre"
+ let profession = "FullStack Developer"
+ let repCompany = prompt("Please Enter your Company Representative name")
+ let company = prompt("Please Enter Your Company name")
+ let hire = true
 
-if(contrata === true){
-console.log(` O representante  ${repEmpesa}  da Empresa (${empresa}) Contratou [${contrata}] o mais novo Funcionario  (${nome}) ${profissao} para o seu Time`)
-}
-else{
-console.log(`O representante ${repEmpesa} da Empresa (${empresa}) Perdeu a chance de Contratar [${contrata}] o Futuro Funcionario (${nome}) ${profissao} para o seu Time`)
-}
-
+ if(hire === true){
+ console.log(` The representative ${repEmpesa} of the Company (${company}) Hired [${contracts}] the newest Employee (${name}) ${profissao} for his Team`)
+ }
+ else{
+ console.log(`The representative ${repEmpesa} of the Company (${company}) Lost the chance to Hire [${contracts}] the Future Employee (${name}) ${profissao} for his Team`)
+ }
 
 ```
 ***
-### Estudando as Principais Tecnologias ->
+### Studying the Main Technologies ->
 
 * HTML5
 * CSS3
@@ -37,17 +35,17 @@ console.log(`O representante ${repEmpesa} da Empresa (${empresa}) Perdeu a chanc
 * EM BREVE TEM MAIS....
 
 ***
-### Profissão atual (Vigilante/Segurança)
+### Current profession (Guardian/Security)
 
-#### Responsável por garantir a segunça de patrimónios e pessoas dentro do local, realizar rondas, triagem de pessoas e objetos, controle de portaria, acesso e saida de visitantes. Previnir vandalismos e possiveis assaltos, furtos ou roubos.
->#### Procurando uma oportunidade para migrar de profissão e entrar na área de tecnologia na qual eu me indentifiquei e me apaixonei, a junção de uma mente criativa e as infinitas possibilidades que a tecnologia pode alcançar podem gerar infinitas 💡idéias.
+#### Responsible for ensuring the safety of assets and people within the site, carrying out rounds, screening people and objects, controlling the entrance, access and departure of visitors.  Prevent vandalism and possible robberies, thefts or robberies.
+ >#### Looking for an opportunity to change careers and enter the area of ​​technology that I identified with and fell in love with, the combination of a creative mind and the infinite possibilities that technology can achieve can generate infinite 💡ideas.
 
-***
-### CONTATOS E REDES SOCIAIS ->
+ ***
+ ### CONTACTS AND SOCIAL NETWORKS ->
 
-### [_PERFIL-LINKEDIN_](https://www.linkedin.com/in/wagner-ribeiro-886626289?lipi=urn:li:page:d_flagship3_profile_view_base_contact_details;6T4cQSdCRoudt/2pDT1wcg==)
+### [_LINKEDIN-PROFILE_](https://www.linkedin.com/in/wagner-ribeiro-886626289?lipi=urn:li:page:d_flagship3_profile_view_base_contact_details;6T4cQSdCRoudt/2pDT1wcg==)
 
-### [_PERFIL-INSTAGRAM_](https://www.instagram.com/wagnerinthedarkness)
+### [_INSTAGRAM-PROFILE_](https://www.instagram.com/wagnerinthedarkness)
 
 #### Email -> war.professionalfull.org@gmail.com
 #### WhatsApp -> +55 (11)98942-6811
