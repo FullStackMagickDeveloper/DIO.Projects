@@ -15,11 +15,12 @@ let name = "Wagner Alexandre"
  let hire = true
 
  if(hire === true){
- console.log(` The representative ${repEmpesa} of the Company (${company}) Hired [${contracts}] the newest Employee (${name}) ${profissao} for his Team`)
+ console.log(` The representative ${repCompany} of the Company (${company}) Hired [${hire}] the newest Employee (${name}) ${profession} for his Team`)
  }
  else{
- console.log(`The representative ${repEmpesa} of the Company (${company}) Lost the chance to Hire [${contracts}] the Future Employee (${name}) ${profissao} for his Team`)
+ console.log(`The representative ${repCompany} of the Company (${company}) Lost the chance to Hire [${hire}] the Future Employee (${name}) ${profession} for his Team`)
  }
+
 
 ```
 ***
